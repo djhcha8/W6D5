@@ -1,0 +1,26 @@
+#root {
+  font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+  width: 400px;
+  margin: auto;
+}
+
+.date-time {
+  display: flex;
+  width: 400px;
+  margin: auto;
+  border: 1px solid black;
+  justify-content: space-between;
+  padding: 10px;
+  background: lightblue;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.label {
+}
+
+.time-date-string {
+}
